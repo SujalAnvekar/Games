@@ -42,9 +42,4 @@ tkinter library
 
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> fe96fd3f8f7944805ad0bdbed8ef29fe85919dbd
 
